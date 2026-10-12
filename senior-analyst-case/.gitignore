@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.duckdb
+*.duckdb.wal
+duckdb_tmp/
+.duckdb_tmp/
+data/
+outputs/
+presentation/
